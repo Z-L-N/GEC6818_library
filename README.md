@@ -1,0 +1,3 @@
+# GEC6818_library
+LCD是GEC6818开发板LCD屏的驱动，是基于正点原子的精英版开发板的LCD驱动移植的
+touch是GEC6818开发板触摸屏的驱动
